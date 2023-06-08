@@ -1,0 +1,18 @@
+.tieude h1{
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+.tieude h2{
+    font-size: 40px;
+    text-align: center;
+    color: white;
+}
+.menu li{
+    display: inline;
+    margin: 100px;
+    color: red;
+} 
+.tieude {
+    background-image: url(logohw.jpg);
+}
